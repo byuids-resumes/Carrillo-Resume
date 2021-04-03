@@ -28,7 +28,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 
 `1654-1660`
-__The King's School, Grantham.__
+__The King's School, Grantham.__ 
+#suggest not to put his elementary school or even college history in it since Issac Newton has so much experience and achievement can be mentioned. 
 
 `June 1661 - now`
 __Trinity College, Cambridge__
@@ -50,10 +51,10 @@ President, *Royal Society*, London, UK
 Associate, *French Academy of Science*, Paris, France
 
 
-
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+#suggest to put a summary of his publications  
 
 ### Journals
 
